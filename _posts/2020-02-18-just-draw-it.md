@@ -17,6 +17,10 @@ In Google Maps you can create a route and add waypoints between the starting and
 
 This was the very first start of [Just Draw It by Lapacadevs](https://play.google.com/store/apps/details?id=com.lapacadevs.justdrawit). We spent two weeks in the first version of the app, an Android application that the main (and only) feature was to draw with your finger on a map and render the distance of the route while the user is drawing. After this initial release, we were adding small features almost every week.
 
+This is how the application looks like now 
+
+![Just Draw It](/public/jdi.jpg)
+
 Why do I start talking about this? Because writing about code, as I said, is too much effort and I don't enjoy it as much as I thought. This past year working on Just Draw It has been amazing because it doesn't involve just code but product and strategy. This is the topic I would like to move this blog, writing about product, about the decisions we take in Just Draw It and how those decisions affect.
 
 Just Draw It has more than 50k downloads in Google Play Store and 4.5 of rating, we are very proud of it. We have taken some good decisions and more bad decisions, but we enjoy the path!
