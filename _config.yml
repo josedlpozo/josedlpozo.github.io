@@ -4,6 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            josedlpozo
+tagline:          indie developer
 description:      'Adventures as an indie developer'
 url:              https://josedlpozo.com
 baseurl:          /
