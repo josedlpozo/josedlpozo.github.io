@@ -11,7 +11,7 @@ This first version is an MVP with the same features we released in the very firs
 
 ## First version
 
-This new app was released at the end of February. We follow the "Iterate Fast and Release Often" philosophy and that is why we released it as soon as we had a minimum working version. Although we had clear the potential of the Android app version, we didn't want to developall the features at once before releasing. We just wanted to try out the App Store and learn all about its functionality.
+This new app was released at the end of February. We follow the "Iterate Fast and Release Often" philosophy and that is why we released it as soon as we had a minimum working version. Although we had clear the potential of the Android app version, we didn't want to develop all the features at once before releasing. We just wanted to try out the App Store and learn all about its functionality.
 
 Since the release this app has been download more than **200 times**. This might not sound impressive, but having into account we haven't done any marketing or advertisement campaigns at all it is a pretty good number.
 
